@@ -1,4 +1,4 @@
-# SeattleFleetSalesPrediction
+# Predicting Fleet Sales Price
 
 The goal of this project is to explore the Seattle fleet sold equipment Disease dataset and use machine learning to predict whether a patient has heart disease. 
 
